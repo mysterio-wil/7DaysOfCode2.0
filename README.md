@@ -51,18 +51,24 @@ Aprender a recibir información del usuario y mostrar mensajes personalizados en
 
 ---
 
-## Día 3 - [Título del tema del día 3]
+## Día 3 - Juego de decisiones con condicionales y bucles
 
 **Objetivo:**  
-[Descripción breve del día 3]
+Aprender a usar estructuras condicionales (`if`, `else if`, `else`) y bucles (`while`) para crear un flujo dinámico de decisiones en un programa.  
 
-**Conceptos aprendidos:**
+**Conceptos aprendidos:**  
 
-- [Concepto 1]  
-- [Concepto 2]  
+- `if / else if / else` → permiten ejecutar bloques de código según condiciones.  
+- `while` → ejecuta un bloque de código repetidamente mientras se cumpla una condición.  
+- `toLowerCase()` → normaliza la entrada del usuario para evitar errores al comparar.  
+- Flujo de decisiones → hacer que la historia cambie según la respuesta del usuario.  
 
 **Práctica:**  
-[Qué ejercicios se hicieron]
+
+- Preguntar al usuario si quiere aprender **Front-End** o **Back-End**.  
+- Según su elección, ofrecer opciones de tecnologías específicas (React, Vue, C#, Java).  
+- Preguntar si quiere especializarse en esa área o convertirse en **Fullstack**.  
+- Permitir que el usuario agregue una lista de tecnologías adicionales en un bucle.  
 
 **Archivo de código:** [dia3.js](./dia3.js)
 
