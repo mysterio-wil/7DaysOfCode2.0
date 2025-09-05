@@ -99,18 +99,22 @@ Crear un juego en el que el usuario intente adivinar un número entre 0 y 10 con
 
 ---
 
-## Día 5 - [Título del tema del día 5]
+## Día 5 - Lista de compras con categorías
 
 **Objetivo:**  
-[Descripción breve del día 5]
+Crear un programa que permita agregar alimentos a una lista de compras y agruparlos por categorías usando arrays y condicionales.
 
 **Conceptos aprendidos:**  
-
-- [Concepto 1]  
-- [Concepto 2]  
+- Uso de arrays para guardar listas de elementos.  
+- Uso de .push() para agregar elementos a un array.  
+- Uso de switch y condicionales para clasificar elementos.  
+- Uso del bucle while para repetir acciones hasta que el usuario diga "no".  
+- Mostrar listas organizadas con console.log y join().
 
 **Práctica:**  
-[Ejercicios realizados]
+- Solicitar datos al usuario y clasificarlos en categorías.  
+- Mostrar la lista agrupada de forma clara.  
+- Validar entradas y manejar categorías personalizadas.
 
 **Archivo de código:** [dia5.js](./dia5.js)
 
