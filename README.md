@@ -120,18 +120,21 @@ Crear un programa que permita agregar alimentos a una lista de compras y agrupar
 
 ---
 
-## Día 6 - [Título del tema del día 6]
+## Día 6 - Lista de compras con opción de eliminar
 
 **Objetivo:**  
-[Descripción breve del día 6]
+Agregar la funcionalidad de eliminar alimentos de la lista de compras, permitiendo al usuario gestionar su lista de manera interactiva.
 
 **Conceptos aprendidos:**  
-
-- [Concepto 1]  
-- [Concepto 2]  
+- Uso de indexOf y splice para eliminar elementos de arrays.  
+- Validaciones para evitar errores al eliminar elementos inexistentes.  
+- Uso de bucles y condicionales para menús interactivos.  
+- Mostrar la lista actual y final de forma organizada.
 
 **Práctica:**  
-[Ejercicios realizados]
+- Permitir al usuario agregar y eliminar alimentos de la lista.  
+- Mostrar la lista agrupada y actualizada tras cada operación.  
+- Validar la existencia del elemento antes de eliminarlo.
 
 **Archivo de código:** [dia6.js](./dia6.js)
 
