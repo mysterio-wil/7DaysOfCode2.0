@@ -74,18 +74,26 @@ Aprender a usar estructuras condicionales (`if`, `else if`, `else`) y bucles (`w
 
 ---
 
-## Día 4 - [Título del tema del día 4]
+## Día 4 - Juego de adivinar el número
 
 **Objetivo:**  
-[Descripción breve del día 4]
+Crear un juego en el que el usuario intente adivinar un número entre 0 y 10 con un máximo de 3 intentos.  
 
 **Conceptos aprendidos:**  
 
-- [Concepto 1]  
-- [Concepto 2]  
+- `Math.random()` → genera un número aleatorio decimal.  
+- `Math.floor()` → convierte un número decimal en entero.  
+- `for` → bucle para repetir código un número fijo de veces.  
+- `break` → detener un bucle antes de que termine.  
+- `parseInt()` → convertir un string a número entero.  
+- Condicionales para verificar si el usuario acertó o no.  
 
 **Práctica:**  
-[Ejercicios realizados]
+
+- Dar al usuario 3 intentos para adivinar un número secreto.  
+- Mostrar mensajes personalizados si acierta o falla.  
+- Revelar el número secreto si no lo adivina.  
+- Mejorar el programa usando un número aleatorio en lugar de uno fijo.  
 
 **Archivo de código:** [dia4.js](./dia4.js)
 
