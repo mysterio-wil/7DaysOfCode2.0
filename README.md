@@ -140,20 +140,25 @@ Agregar la funcionalidad de eliminar alimentos de la lista de compras, permitien
 
 ---
 
-## Día 7 - [Título del tema del día 7]
+## Día 7 - Calculadora Interactiva con Funciones
 
 **Objetivo:**  
-[Descripción breve del día 7]
+Crear una calculadora interactiva que permita al usuario realizar operaciones básicas (suma, resta, multiplicación, división) utilizando funciones separadas para cada operación y un bucle para mantener la calculadora activa hasta que el usuario decida salir.
 
 **Conceptos aprendidos:**
 
-- [Concepto 1]
-- [Concepto 2]  
+- Definición y uso de funciones para modularizar el código.
+- Paso de parámetros y retorno de valores en funciones.
+- Uso de `prompt()` y `alert()` para interacción con el usuario.
+- Estructuras de control: `while` para bucles y `switch` para selección de opciones.
+- Validación de entrada de usuario (`isNaN`, `parseFloat`).
+- Manejo de casos especiales (división por cero).
 
 **Práctica:**  
-[Ejercicios realizados]
-
-**Archivo de código:** [dia7.js](./dia7.js)
+- Implementación de funciones para suma, resta, multiplicación y división.
+- Creación de un menú interactivo para la calculadora.
+- Manejo del flujo del programa para permitir múltiples operaciones o salir.
+- Validación de los números ingresados por el usuario.
 
 ---
 
